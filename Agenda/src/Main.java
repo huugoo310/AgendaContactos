@@ -11,6 +11,6 @@ public class Main {
 
         String opciones = sc.next();
         String opciones1 = opciones;
-        System.out.println("Has elegifo la opcion " + opciones1);
+        System.out.println("Has elegido la opcion " + opciones1);
     }
 }
